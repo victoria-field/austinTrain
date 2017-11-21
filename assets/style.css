@@ -1,0 +1,65 @@
+#container, #table{
+  width:400px;
+  height: 400px;
+  border:2px solid black;
+  border-radius:10px;
+  margin:70px;
+  padding: 10px;
+  background: #6eb7d6;
+  float: left;
+}
+
+#table{
+  display: none;
+}
+
+h2{
+  text-align: center;
+  color: white;
+
+}
+
+label{
+  color: white;
+  padding: 5px;
+  margin:5px;
+  font-size: 25px;
+}
+
+input{
+  width:90%;
+  height: 25px;
+  border-radius: 10px;
+  font-size: 25px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#btnSearch{
+  border-radius:10px;
+}
+
+table{
+  width:100%;
+  font-size: 25px;
+
+}
+
+th{
+  border-bottom: 2px solid black;
+
+}
+
+td{
+  padding:5px;
+  text-align: center;
+}
+
+#result{
+  margin:0px auto;
+}
+
+p{
+  font-size: 25px;
+  text-align: center;
+}
